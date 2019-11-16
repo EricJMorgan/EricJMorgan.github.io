@@ -2561,6 +2561,12 @@ input, select, textarea {
 
 /* Image */
 
+	.rounded-img {
+		border-radius:50% !important;
+		border:4px;
+		border-color:white;
+	}
+
 	.image {
 		border-radius: 0.25em;
 		border: 0;
