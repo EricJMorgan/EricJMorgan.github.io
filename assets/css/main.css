@@ -2563,8 +2563,8 @@ input, select, textarea {
 
 	.rounded-img {
 		border-radius:50% !important;
-		border:4px;
-		border-color:white;
+		border:2px solid #e6e8eb;
+		
 	}
 
 	.image {
@@ -3902,6 +3902,11 @@ input, select, textarea {
 
 				#intro p {
 					font-size: 1em;
+				}
+
+				#intro .image.right {
+					max-width:100%;
+					width:100% !important;
 				}
 
 			}
