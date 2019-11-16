@@ -2564,6 +2564,7 @@ input, select, textarea {
 	.rounded-img {
 		border-radius:50% !important;
 		border:2px solid #e6e8eb;
+		margin-top:2.5em;
 		
 	}
 
@@ -3907,6 +3908,10 @@ input, select, textarea {
 				#intro .image.right {
 					max-width:100%;
 					width:100% !important;
+				}
+
+				#intro .rounded-img {
+					margin-top:0em;
 				}
 
 			}
